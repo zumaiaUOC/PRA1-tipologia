@@ -109,3 +109,6 @@ Para su correcta ejecución recomiendo:
     
     donde # es el número de tienda, desde 0 hasta 1.
     
+    
+## El resultado final
+![](data/resultado.png)
