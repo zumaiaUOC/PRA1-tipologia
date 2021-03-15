@@ -1,5 +1,9 @@
 # Las tiendas de ropa infantil on line.
 
+    Autores:
+      Oscar Rojo Martín  -  zumaia@uoc.edu
+      Jose Antonio Jara - jjara@uoc.edu
+
 
 ![](data/jordan-nix-su6w8v_JXwo-unsplash.jpg)
 Photo by <a href="https://unsplash.com/@jordannix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jordan Nix</a> on <a href="/s/photos/baby-clothes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
