@@ -2,7 +2,6 @@
 
     Autores:
       Oscar Rojo Martín  -  zumaia@uoc.edu
-      Jose Antonio Jara - jjara@uoc.edu
 
 
 ![](data/jordan-nix-su6w8v_JXwo-unsplash.jpg)
