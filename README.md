@@ -82,16 +82,25 @@ con una breve descripción.
 
 Para su correcta ejecución recomiendo:
 1. Generar una carpeta
-    $ mkdir -directorio
+
+        $ mkdir -directorio
+    
 2. Generar un entorno virtual   
     en linux  
-    $ python3 -m venv /path/to/new/virtual/environment   
+    
+        $ python3 -m venv /path/to/new/virtual/environment   
     
     en windows
-    c:\>c:\Python35\python -m venv c:\path\to\myenv
+    
+        c:\>c:\Python35\python -m venv c:\path\to\myenv
+    
 3. Instalar los módulos necesarios detallados en el fichero requirements.txt
-    $ pip install requirements.txt
+
+        $ pip install requirements.txt
+    
 4. Ejecutar cada un de los ejecutables según la tienda
-    $ python tienda_#.py
+
+        $ python tienda_#.py
+    
     donde # es el número de tienda, desde 0 hasta 1.
     
